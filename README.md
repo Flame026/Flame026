@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Flame026 👋
 
-<!--
-**Flame026/Flame026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Commerce student | Independent Builder | AI Enthusiast
 
-Here are some ideas to get you started:
+I enjoy turning ideas into practical software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### VaultZero
+An offline-first Android database application.
+
+## Interests
+- AI-assisted development
+- Multi-agent workflows
+- Android development
+- Automation
+- Knowledge management
