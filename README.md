@@ -1,4 +1,4 @@
-# Hi, I'm Flame026 👋
+# Hi, I'm Cue 👋
 
 Commerce student | Independent Builder | AI Enthusiast
 
